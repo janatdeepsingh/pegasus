@@ -5,6 +5,6 @@ rouge-score
 sacrebleu
 sentencepiece
 tensorflow-text==2.8.1
-tensor2tensor==1.15.0
+tensor2tensor==1.15.7
 tensorflow-datasets==2.1.0
 tensorflow-gpu==2.8.0rc0
