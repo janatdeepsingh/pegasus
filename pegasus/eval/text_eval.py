@@ -26,7 +26,7 @@ import tensorflow as tf
 
 from rouge_score import rouge_scorer
 from rouge_score import scoring
-from tensorflow.contrib import summary as contrib_summary
+from tensorflow.summary import summary as contrib_summary
 
 _ROUGE_METRIC = "rouge"
 _BLEU_METRIC = "bleu"
